@@ -1,2 +1,2 @@
-# Inclunet
-Web destinada a grupos vulnerables 
+# SSA
+Destroy your computer
